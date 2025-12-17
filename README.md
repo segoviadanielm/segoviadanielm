@@ -11,6 +11,7 @@ Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**
 <a href="https://gitlab.com/segoviadanielm">
   <img src="https://img.shields.io/badge/GitLab-segoviadanielm-151515?style=for-the-badge&logo=gitlab&logoColor=E24329" alt="GitLab Profile" />
 </a>
+
 ---
 
 #### 🚀 What I bring to the table
