@@ -4,14 +4,14 @@
 
 Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**. I specialize in bridging the gap between complex business needs and high-performance backend systems.
 
-*(And yes, despite my profile picture, I also code for passion and challenging problems, not just food 🍕)*
+*(And yes, despite my profile picture, I also code for passion)*
 
 ---
 
 #### 🚀 What I bring to the table
 * **Senior Backend Expertise:** +5 years designing production-ready APIs with **Node.js** and **TypeScript**.
-* **Cloud Architecture:** Deep experience with **AWS Serverless** ecosystems (Lambda, DynamoDB, SQS, SNS).
-* **High-Impact Engineering:** Proven track record in the Fintech sector, migrating legacy systems to modern architectures.
+* **Cloud Architecture:** Deep experience with **AWS Serverless** ecosystems (Lambda, DynamoDB, SQS, SNS) and **GCP** integrations.
+* **High-Impact Engineering:** Proven track record for many clients all over Argentina.
 
 ---
 
