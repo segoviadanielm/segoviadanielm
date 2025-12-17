@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Segovia! 👋
 
-**Software Engineer (+5 years) | Node.js & AWS Specialist**
+**Software Engineer | Node.js & AWS Specialist**
 
 Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**. I specialize in bridging the gap between complex business needs and high-performance backend systems.
 
@@ -9,7 +9,7 @@ Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**
 ---
 
 #### 🚀 What I bring to the table
-* **Senior Backend Expertise:** +5 years designing production-ready APIs with **Node.js** and **TypeScript**.
+* **Solid Backend Expertise:** +5 years designing production-ready APIs with **Node.js** and **TypeScript**.
 * **Cloud Architecture:** Deep experience with **AWS Serverless** ecosystems (Lambda, DynamoDB, SQS), plus **GCP** integrations.
 * **Versatile Problem Solving:** Proven track record delivering end-to-end software solutions for diverse clients as an Independent Consultant.
 
