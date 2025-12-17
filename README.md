@@ -36,7 +36,7 @@ Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segoviadanielm&layout=compact&theme=omni&hide_border=true" />
 </a>
 <a href="https://gitlab.com/segoviadanielm">
-    <img height="160em" src="https://gitlab-readme-stats.vercel.app/api?username=TU_USER_GITLAB&theme=omni&hide_border=true" />
+    <img height="160em" src="https://gitlab-readme-stats.vercel.app/api?username=segoviadanielm&theme=omni&hide_border=true" />
   </a>
 </p>
 
