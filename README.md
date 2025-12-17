@@ -8,7 +8,9 @@ Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**
 
 > ⚠️ **Note:** Most of my personal projects and contributions are hosted on **GitLab**. If my GitHub activity looks quiet, it's because I'm busy over there!
 
-[<img src="https://img.shields.io/badge/Check_my_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/segoviadanielm)
+<a href="https://gitlab.com/segoviadanielm">
+  <img src="https://img.shields.io/badge/GitLab-segoviadanielm-151515?style=for-the-badge&logo=gitlab&logoColor=E24329" alt="GitLab Profile" />
+</a>
 ---
 
 #### 🚀 What I bring to the table
@@ -35,9 +37,6 @@ Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segoviadanielm&layout=compact&theme=omni&hide_border=true" />
 </a>
-<a href="https://gitlab.com/segoviadanielm">
-    <img height="160em" src="https://gitlab-readme-stats.vercel.app/api?username=segoviadanielm&theme=omni&hide_border=true" />
-  </a>
 </p>
 
 ---
