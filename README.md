@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Segovia! 👋
+## Hi there, I'm Daniel Segovia! 👋
 
 **Software Engineer | Node.js & AWS Specialist**
 
