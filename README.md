@@ -2,7 +2,7 @@
 
 **Software Engineer | Node.js & AWS Specialist**
 
-Currently, I'm architecting scalable, cloud-native solutions at **Banco Comafi**. I specialize in bridging the gap between complex business needs and high-performance backend systems.
+Currently, I'm architecting scalable, cloud-native solutions at **Avenga**. I specialize in bridging the gap between complex business needs and high-performance backend systems.
 
 *(And yes, despite my profile picture, I also code for passion... and maybe a little bit for food 🍕)*
 
